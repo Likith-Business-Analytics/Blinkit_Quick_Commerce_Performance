@@ -31,4 +31,8 @@ These KPIs focus on specific product characteristics.
 
 ## Dataset and Technology Used
 Dataset =  <a href= "https://github.com/Likith-Business-Analytics/Blinkit_Quick_Commerce_Performance/blob/main/BlinkIT%20Grocery%20Data.xlsx"> BlinkIt Grocery Data </a>
+
 Microsoft PowerBi = <a href= "https://github.com/Likith-Business-Analytics/Blinkit_Quick_Commerce_Performance/blob/main/BlinkIT%20Dashboard.pbix"> BlinkIt Dashboard <a/>
+
+# Dashboard
+<img width="1204" height="713" alt="image" src="https://github.com/user-attachments/assets/d91047db-ccb5-4e26-b0d4-1b7301390c2e" />
