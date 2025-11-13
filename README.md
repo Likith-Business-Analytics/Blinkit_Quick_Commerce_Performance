@@ -36,3 +36,15 @@ Microsoft PowerBi = <a href= "https://github.com/Likith-Business-Analytics/Blink
 
 # Dashboard
 <img width="1204" height="713" alt="image" src="https://github.com/user-attachments/assets/d91047db-ccb5-4e26-b0d4-1b7301390c2e" />
+
+# Project Insight
+- Revenue Concentration: Supermarket Type 1 ($787K) drives nearly two-thirds (65%) of total sales, creating significant business risk due to over-reliance.
+- Size Inefficiency: High Size Outlets ($248K) underperform compared to Medium ($507K) and Small ($444K) stores, indicating poor conversion of large capacity to sales.
+- Tier 3 Growth: Tier 3 Outlet Locations lead in sales ($472K), showing high untapped potential in these emerging/high-density markets.
+- Product Priority: Regular fat content items ($776K) outsell Low Fat items ($425K) by a 2:1 margin, confirming higher customer demand for standard products
+
+# Recommendations
+- Optimize Low-Performing Supermarkets: Invest in Supermarket Type 2 (highest Avg Sales: $142) and Type 3 to de-risk dependence on Type 1.
+- Fix High-Size Outlets: Conduct a rapid audit on the High Size Outlets to improve their efficiency, potentially by adjusting inventory levels or physical flow to match the superior performance of Medium stores.
+- Expand in Tier 3: Prioritize budget for new dark store expansion in Tier 3 locations, utilizing the efficient operating model of Medium-sized stores.
+- Refine Inventory Strategy: Re-evaluate stocking to increase inventory of Regular fat content items in high-performing outlets to maximize turnover based on consumer preference.
