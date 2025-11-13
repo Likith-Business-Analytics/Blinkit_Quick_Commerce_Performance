@@ -30,4 +30,4 @@ These KPIs focus on specific product characteristics.
 - Sales by Outlet Tier (Tier 1, 2, 3): Tracking sales performance across predefined geographical or operational groupings.
 
 ## Dataset and Technology Used
-BlinkIt Grocery Data = - <a href= "https://github.com/Likith-Business-Analytics/Blinkit_Quick_Commerce_Performance/blob/main/BlinkIT%20Grocery%20Data.xlsx>Dataset</a>
+BlinkIt Grocery Data =  <a href= "https://github.com/Likith-Business-Analytics/Blinkit_Quick_Commerce_Performance/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Dataset </a>
